@@ -1,2 +1,2 @@
-a = "application"
+a = "zzzzzzzzzzz"
 print(a)
